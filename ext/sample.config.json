@@ -11,6 +11,9 @@
         "port": 3306,
         "database": "osu"
     },
+    "authentication": {
+        "osu": "b8787c1751e6ddefef05ec694fe362b63073f1e4",
+    },
     "debug": {
         "file_level": "trace",
         "file_dir": "/logs/",
