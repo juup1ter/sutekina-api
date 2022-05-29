@@ -12,7 +12,7 @@
         "database": "osu"
     },
     "authentication": {
-        "osu": "b8787c1751e6ddefef05ec694fe362b63073f1e4",
+        "osu": "osu-api-key",
     },
     "debug": {
         "file_level": "trace",
